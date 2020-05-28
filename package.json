@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
+  "homepage": "https://github.com/YutaUra/jquery-virtual-dom",
+  "author": "Yuta Ura",
   "scripts": {
     "preinstall": "typesync || :",
     "build": "npx webpack --config webpack.config.js",
